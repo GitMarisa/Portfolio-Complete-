@@ -18,7 +18,7 @@ Este ea un portfolio creado con html,css Javascript usando metologia BEM y una a
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el ,html
 
 ##Contración
-Si quieres contratarme puedes escribirme a gitmarisa369@Dominio.com para consultas.
+Si quieres contratarme puedes escribirme a gitmarisa369@gmail.com para consultas.
 
 ## Licencia 
 MIT public License v3.0
